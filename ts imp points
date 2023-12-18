@@ -1,0 +1,7 @@
+- TypeScript ensures type safety and does static checking
+- TypeScript at the end compiled to JS because browsers understand JS
+- TypeScript is a development tool and wrapper for JS
+- Install using 
+    - npm i typescript --save-dev
+- and execute using
+    - tsc.cmd filename.ts
